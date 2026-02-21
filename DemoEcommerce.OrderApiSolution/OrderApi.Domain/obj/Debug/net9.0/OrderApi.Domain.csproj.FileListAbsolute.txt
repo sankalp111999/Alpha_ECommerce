@@ -1,0 +1,11 @@
+D:\OneDrive\Desktop\ASP Project LP-2777\DemoEcommerce.OrderApiSolution\OrderApi.Domain\bin\Debug\net9.0\OrderApi.Domain.deps.json
+D:\OneDrive\Desktop\ASP Project LP-2777\DemoEcommerce.OrderApiSolution\OrderApi.Domain\bin\Debug\net9.0\OrderApi.Domain.dll
+D:\OneDrive\Desktop\ASP Project LP-2777\DemoEcommerce.OrderApiSolution\OrderApi.Domain\bin\Debug\net9.0\OrderApi.Domain.pdb
+D:\OneDrive\Desktop\ASP Project LP-2777\DemoEcommerce.OrderApiSolution\OrderApi.Domain\obj\Debug\net9.0\OrderApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Desktop\ASP Project LP-2777\DemoEcommerce.OrderApiSolution\OrderApi.Domain\obj\Debug\net9.0\OrderApi.Domain.AssemblyInfoInputs.cache
+D:\OneDrive\Desktop\ASP Project LP-2777\DemoEcommerce.OrderApiSolution\OrderApi.Domain\obj\Debug\net9.0\OrderApi.Domain.AssemblyInfo.cs
+D:\OneDrive\Desktop\ASP Project LP-2777\DemoEcommerce.OrderApiSolution\OrderApi.Domain\obj\Debug\net9.0\OrderApi.Domain.csproj.CoreCompileInputs.cache
+D:\OneDrive\Desktop\ASP Project LP-2777\DemoEcommerce.OrderApiSolution\OrderApi.Domain\obj\Debug\net9.0\OrderApi.Domain.dll
+D:\OneDrive\Desktop\ASP Project LP-2777\DemoEcommerce.OrderApiSolution\OrderApi.Domain\obj\Debug\net9.0\refint\OrderApi.Domain.dll
+D:\OneDrive\Desktop\ASP Project LP-2777\DemoEcommerce.OrderApiSolution\OrderApi.Domain\obj\Debug\net9.0\OrderApi.Domain.pdb
+D:\OneDrive\Desktop\ASP Project LP-2777\DemoEcommerce.OrderApiSolution\OrderApi.Domain\obj\Debug\net9.0\ref\OrderApi.Domain.dll

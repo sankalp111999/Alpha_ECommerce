@@ -1,0 +1,17 @@
+D:\OneDrive\Desktop\ASP Project LP-2777\DemoEcommerce.OrderApiSolution\OrderApi.Application\bin\Debug\net9.0\OrderApi.Application.deps.json
+D:\OneDrive\Desktop\ASP Project LP-2777\DemoEcommerce.OrderApiSolution\OrderApi.Application\bin\Debug\net9.0\OrderApi.Application.dll
+D:\OneDrive\Desktop\ASP Project LP-2777\DemoEcommerce.OrderApiSolution\OrderApi.Application\bin\Debug\net9.0\OrderApi.Application.pdb
+D:\OneDrive\Desktop\ASP Project LP-2777\DemoEcommerce.OrderApiSolution\OrderApi.Application\bin\Debug\net9.0\eCommerce.SharedLibrary.dll
+D:\OneDrive\Desktop\ASP Project LP-2777\DemoEcommerce.OrderApiSolution\OrderApi.Application\bin\Debug\net9.0\OrderApi.Domain.dll
+D:\OneDrive\Desktop\ASP Project LP-2777\DemoEcommerce.OrderApiSolution\OrderApi.Application\bin\Debug\net9.0\eCommerce.SharedLibrary.pdb
+D:\OneDrive\Desktop\ASP Project LP-2777\DemoEcommerce.OrderApiSolution\OrderApi.Application\bin\Debug\net9.0\OrderApi.Domain.pdb
+D:\OneDrive\Desktop\ASP Project LP-2777\DemoEcommerce.OrderApiSolution\OrderApi.Application\obj\Debug\net9.0\OrderApi.Application.csproj.AssemblyReference.cache
+D:\OneDrive\Desktop\ASP Project LP-2777\DemoEcommerce.OrderApiSolution\OrderApi.Application\obj\Debug\net9.0\OrderApi.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Desktop\ASP Project LP-2777\DemoEcommerce.OrderApiSolution\OrderApi.Application\obj\Debug\net9.0\OrderApi.Application.AssemblyInfoInputs.cache
+D:\OneDrive\Desktop\ASP Project LP-2777\DemoEcommerce.OrderApiSolution\OrderApi.Application\obj\Debug\net9.0\OrderApi.Application.AssemblyInfo.cs
+D:\OneDrive\Desktop\ASP Project LP-2777\DemoEcommerce.OrderApiSolution\OrderApi.Application\obj\Debug\net9.0\OrderApi.Application.csproj.CoreCompileInputs.cache
+D:\OneDrive\Desktop\ASP Project LP-2777\DemoEcommerce.OrderApiSolution\OrderApi.Application\obj\Debug\net9.0\OrderApi.A1672EEC.Up2Date
+D:\OneDrive\Desktop\ASP Project LP-2777\DemoEcommerce.OrderApiSolution\OrderApi.Application\obj\Debug\net9.0\OrderApi.Application.dll
+D:\OneDrive\Desktop\ASP Project LP-2777\DemoEcommerce.OrderApiSolution\OrderApi.Application\obj\Debug\net9.0\refint\OrderApi.Application.dll
+D:\OneDrive\Desktop\ASP Project LP-2777\DemoEcommerce.OrderApiSolution\OrderApi.Application\obj\Debug\net9.0\OrderApi.Application.pdb
+D:\OneDrive\Desktop\ASP Project LP-2777\DemoEcommerce.OrderApiSolution\OrderApi.Application\obj\Debug\net9.0\ref\OrderApi.Application.dll

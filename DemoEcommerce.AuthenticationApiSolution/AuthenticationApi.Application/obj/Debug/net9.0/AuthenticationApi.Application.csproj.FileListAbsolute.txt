@@ -1,0 +1,17 @@
+D:\OneDrive\Desktop\ASP Project LP-2777\DemoEcommerce.AuthenticationApiSolution\AuthenticationApi.Application\bin\Debug\net9.0\AuthenticationApi.Application.deps.json
+D:\OneDrive\Desktop\ASP Project LP-2777\DemoEcommerce.AuthenticationApiSolution\AuthenticationApi.Application\bin\Debug\net9.0\AuthenticationApi.Application.dll
+D:\OneDrive\Desktop\ASP Project LP-2777\DemoEcommerce.AuthenticationApiSolution\AuthenticationApi.Application\bin\Debug\net9.0\AuthenticationApi.Application.pdb
+D:\OneDrive\Desktop\ASP Project LP-2777\DemoEcommerce.AuthenticationApiSolution\AuthenticationApi.Application\bin\Debug\net9.0\AuthenticationApi.Domain.dll
+D:\OneDrive\Desktop\ASP Project LP-2777\DemoEcommerce.AuthenticationApiSolution\AuthenticationApi.Application\bin\Debug\net9.0\eCommerce.SharedLibrary.dll
+D:\OneDrive\Desktop\ASP Project LP-2777\DemoEcommerce.AuthenticationApiSolution\AuthenticationApi.Application\bin\Debug\net9.0\eCommerce.SharedLibrary.pdb
+D:\OneDrive\Desktop\ASP Project LP-2777\DemoEcommerce.AuthenticationApiSolution\AuthenticationApi.Application\bin\Debug\net9.0\AuthenticationApi.Domain.pdb
+D:\OneDrive\Desktop\ASP Project LP-2777\DemoEcommerce.AuthenticationApiSolution\AuthenticationApi.Application\obj\Debug\net9.0\AuthenticationApi.Application.csproj.AssemblyReference.cache
+D:\OneDrive\Desktop\ASP Project LP-2777\DemoEcommerce.AuthenticationApiSolution\AuthenticationApi.Application\obj\Debug\net9.0\AuthenticationApi.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Desktop\ASP Project LP-2777\DemoEcommerce.AuthenticationApiSolution\AuthenticationApi.Application\obj\Debug\net9.0\AuthenticationApi.Application.AssemblyInfoInputs.cache
+D:\OneDrive\Desktop\ASP Project LP-2777\DemoEcommerce.AuthenticationApiSolution\AuthenticationApi.Application\obj\Debug\net9.0\AuthenticationApi.Application.AssemblyInfo.cs
+D:\OneDrive\Desktop\ASP Project LP-2777\DemoEcommerce.AuthenticationApiSolution\AuthenticationApi.Application\obj\Debug\net9.0\AuthenticationApi.Application.csproj.CoreCompileInputs.cache
+D:\OneDrive\Desktop\ASP Project LP-2777\DemoEcommerce.AuthenticationApiSolution\AuthenticationApi.Application\obj\Debug\net9.0\Authenti.F26204DC.Up2Date
+D:\OneDrive\Desktop\ASP Project LP-2777\DemoEcommerce.AuthenticationApiSolution\AuthenticationApi.Application\obj\Debug\net9.0\AuthenticationApi.Application.dll
+D:\OneDrive\Desktop\ASP Project LP-2777\DemoEcommerce.AuthenticationApiSolution\AuthenticationApi.Application\obj\Debug\net9.0\refint\AuthenticationApi.Application.dll
+D:\OneDrive\Desktop\ASP Project LP-2777\DemoEcommerce.AuthenticationApiSolution\AuthenticationApi.Application\obj\Debug\net9.0\AuthenticationApi.Application.pdb
+D:\OneDrive\Desktop\ASP Project LP-2777\DemoEcommerce.AuthenticationApiSolution\AuthenticationApi.Application\obj\Debug\net9.0\ref\AuthenticationApi.Application.dll

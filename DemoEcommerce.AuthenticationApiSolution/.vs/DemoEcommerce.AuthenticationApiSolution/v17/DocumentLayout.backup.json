@@ -1,0 +1,282 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\OneDrive\\Desktop\\ASP Project LP-2777\\DemoEcommerce.AuthenticationApiSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA64DBB2-F2B2-4CBF-85C8-2640770DB1D1}|AuthenticationApi.Presentation\\AuthenticationApi.Presentation.csproj|d:\\onedrive\\desktop\\asp project lp-2777\\demoecommerce.authenticationapisolution\\authenticationapi.presentation\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA64DBB2-F2B2-4CBF-85C8-2640770DB1D1}|AuthenticationApi.Presentation\\AuthenticationApi.Presentation.csproj|solutionrelative:authenticationapi.presentation\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA64DBB2-F2B2-4CBF-85C8-2640770DB1D1}|AuthenticationApi.Presentation\\AuthenticationApi.Presentation.csproj|d:\\onedrive\\desktop\\asp project lp-2777\\demoecommerce.authenticationapisolution\\authenticationapi.presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EA64DBB2-F2B2-4CBF-85C8-2640770DB1D1}|AuthenticationApi.Presentation\\AuthenticationApi.Presentation.csproj|solutionrelative:authenticationapi.presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02B95D3A-5AE0-49A2-B87C-1D24AE508414}|AuthenticationApi.Infrastructure\\AuthenticationApi.Infrastructure.csproj|d:\\onedrive\\desktop\\asp project lp-2777\\demoecommerce.authenticationapisolution\\authenticationapi.infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02B95D3A-5AE0-49A2-B87C-1D24AE508414}|AuthenticationApi.Infrastructure\\AuthenticationApi.Infrastructure.csproj|solutionrelative:authenticationapi.infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA64DBB2-F2B2-4CBF-85C8-2640770DB1D1}|AuthenticationApi.Presentation\\AuthenticationApi.Presentation.csproj|d:\\onedrive\\desktop\\asp project lp-2777\\demoecommerce.authenticationapisolution\\authenticationapi.presentation\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EA64DBB2-F2B2-4CBF-85C8-2640770DB1D1}|AuthenticationApi.Presentation\\AuthenticationApi.Presentation.csproj|solutionrelative:authenticationapi.presentation\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A54389C-DC0F-4E19-A47D-9C1B48A4EC3F}|AuthenticationApi.Domain\\AuthenticationApi.Domain.csproj|d:\\onedrive\\desktop\\asp project lp-2777\\demoecommerce.authenticationapisolution\\authenticationapi.domain\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A54389C-DC0F-4E19-A47D-9C1B48A4EC3F}|AuthenticationApi.Domain\\AuthenticationApi.Domain.csproj|solutionrelative:authenticationapi.domain\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Data\\Migrations\\20260201074229_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA64DBB2-F2B2-4CBF-85C8-2640770DB1D1}|AuthenticationApi.Presentation\\AuthenticationApi.Presentation.csproj|d:\\onedrive\\desktop\\asp project lp-2777\\demoecommerce.authenticationapisolution\\authenticationapi.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA64DBB2-F2B2-4CBF-85C8-2640770DB1D1}|AuthenticationApi.Presentation\\AuthenticationApi.Presentation.csproj|solutionrelative:authenticationapi.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{037A0280-0D01-FF6F-6210-90E1ECB2528E}|..\\DemoECommerce.SharedLibrarySolution\\eCommerce.SharedLibrary\\eCommerce.SharedLibrary.csproj|d:\\onedrive\\desktop\\asp project lp-2777\\demoecommerce.sharedlibrarysolution\\ecommerce.sharedlibrary\\dependencyinjection\\sharedservicecontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02B95D3A-5AE0-49A2-B87C-1D24AE508414}|AuthenticationApi.Infrastructure\\AuthenticationApi.Infrastructure.csproj|d:\\onedrive\\desktop\\asp project lp-2777\\demoecommerce.authenticationapisolution\\authenticationapi.infrastructure\\dependencyinjection\\servicecontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02B95D3A-5AE0-49A2-B87C-1D24AE508414}|AuthenticationApi.Infrastructure\\AuthenticationApi.Infrastructure.csproj|solutionrelative:authenticationapi.infrastructure\\dependencyinjection\\servicecontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9619122-4A28-4EB7-B8BC-9970E73729CC}|AuthenticationApi.Application\\AuthenticationApi.Application.csproj|d:\\onedrive\\desktop\\asp project lp-2777\\demoecommerce.authenticationapisolution\\authenticationapi.application\\dtos\\getuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9619122-4A28-4EB7-B8BC-9970E73729CC}|AuthenticationApi.Application\\AuthenticationApi.Application.csproj|solutionrelative:authenticationapi.application\\dtos\\getuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02B95D3A-5AE0-49A2-B87C-1D24AE508414}|AuthenticationApi.Infrastructure\\AuthenticationApi.Infrastructure.csproj|d:\\onedrive\\desktop\\asp project lp-2777\\demoecommerce.authenticationapisolution\\authenticationapi.infrastructure\\data\\authenticationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02B95D3A-5AE0-49A2-B87C-1D24AE508414}|AuthenticationApi.Infrastructure\\AuthenticationApi.Infrastructure.csproj|solutionrelative:authenticationapi.infrastructure\\data\\authenticationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9619122-4A28-4EB7-B8BC-9970E73729CC}|AuthenticationApi.Application\\AuthenticationApi.Application.csproj|d:\\onedrive\\desktop\\asp project lp-2777\\demoecommerce.authenticationapisolution\\authenticationapi.application\\interfaces\\iuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9619122-4A28-4EB7-B8BC-9970E73729CC}|AuthenticationApi.Application\\AuthenticationApi.Application.csproj|solutionrelative:authenticationapi.application\\interfaces\\iuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9619122-4A28-4EB7-B8BC-9970E73729CC}|AuthenticationApi.Application\\AuthenticationApi.Application.csproj|d:\\onedrive\\desktop\\asp project lp-2777\\demoecommerce.authenticationapisolution\\authenticationapi.application\\dtos\\appuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9619122-4A28-4EB7-B8BC-9970E73729CC}|AuthenticationApi.Application\\AuthenticationApi.Application.csproj|solutionrelative:authenticationapi.application\\dtos\\appuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9619122-4A28-4EB7-B8BC-9970E73729CC}|AuthenticationApi.Application\\AuthenticationApi.Application.csproj|d:\\onedrive\\desktop\\asp project lp-2777\\demoecommerce.authenticationapisolution\\authenticationapi.application\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9619122-4A28-4EB7-B8BC-9970E73729CC}|AuthenticationApi.Application\\AuthenticationApi.Application.csproj|solutionrelative:authenticationapi.application\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02B95D3A-5AE0-49A2-B87C-1D24AE508414}|AuthenticationApi.Infrastructure\\AuthenticationApi.Infrastructure.csproj|d:\\onedrive\\desktop\\asp project lp-2777\\demoecommerce.authenticationapisolution\\authenticationapi.infrastructure\\data\\migrations\\20260201074340_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02B95D3A-5AE0-49A2-B87C-1D24AE508414}|AuthenticationApi.Infrastructure\\AuthenticationApi.Infrastructure.csproj|solutionrelative:authenticationapi.infrastructure\\data\\migrations\\20260201074340_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 962,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\OneDrive\\Desktop\\ASP Project LP-2777\\DemoEcommerce.AuthenticationApiSolution\\AuthenticationApi.Presentation\\appsettings.json",
+              "RelativeDocumentMoniker": "AuthenticationApi.Presentation\\appsettings.json",
+              "ToolTip": "D:\\OneDrive\\Desktop\\ASP Project LP-2777\\DemoEcommerce.AuthenticationApiSolution\\AuthenticationApi.Presentation\\appsettings.json",
+              "RelativeToolTip": "AuthenticationApi.Presentation\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-31T17:38:33.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\OneDrive\\Desktop\\ASP Project LP-2777\\DemoEcommerce.AuthenticationApiSolution\\AuthenticationApi.Presentation\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "AuthenticationApi.Presentation\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\OneDrive\\Desktop\\ASP Project LP-2777\\DemoEcommerce.AuthenticationApiSolution\\AuthenticationApi.Presentation\\Properties\\launchSettings.json",
+              "RelativeToolTip": "AuthenticationApi.Presentation\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-31T17:34:09.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Desktop\\ASP Project LP-2777\\DemoEcommerce.AuthenticationApiSolution\\AuthenticationApi.Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "AuthenticationApi.Infrastructure\\Repositories\\UserRepository.cs",
+              "ToolTip": "D:\\OneDrive\\Desktop\\ASP Project LP-2777\\DemoEcommerce.AuthenticationApiSolution\\AuthenticationApi.Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "AuthenticationApi.Infrastructure\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAADEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T12:11:08.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthenticationController.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Desktop\\ASP Project LP-2777\\DemoEcommerce.AuthenticationApiSolution\\AuthenticationApi.Presentation\\Controllers\\AuthenticationController.cs",
+              "RelativeDocumentMoniker": "AuthenticationApi.Presentation\\Controllers\\AuthenticationController.cs",
+              "ToolTip": "D:\\OneDrive\\Desktop\\ASP Project LP-2777\\DemoEcommerce.AuthenticationApiSolution\\AuthenticationApi.Presentation\\Controllers\\AuthenticationController.cs*",
+              "RelativeToolTip": "AuthenticationApi.Presentation\\Controllers\\AuthenticationController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T17:49:18.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SharedServiceContainer.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Desktop\\ASP Project LP-2777\\DemoECommerce.SharedLibrarySolution\\eCommerce.SharedLibrary\\DependencyInjection\\SharedServiceContainer.cs",
+              "RelativeDocumentMoniker": "..\\DemoECommerce.SharedLibrarySolution\\eCommerce.SharedLibrary\\DependencyInjection\\SharedServiceContainer.cs",
+              "ToolTip": "D:\\OneDrive\\Desktop\\ASP Project LP-2777\\DemoECommerce.SharedLibrarySolution\\eCommerce.SharedLibrary\\DependencyInjection\\SharedServiceContainer.cs",
+              "RelativeToolTip": "..\\DemoECommerce.SharedLibrarySolution\\eCommerce.SharedLibrary\\DependencyInjection\\SharedServiceContainer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T17:43:08.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Desktop\\ASP Project LP-2777\\DemoEcommerce.AuthenticationApiSolution\\AuthenticationApi.Domain\\Entities\\AppUser.cs",
+              "RelativeDocumentMoniker": "AuthenticationApi.Domain\\Entities\\AppUser.cs",
+              "ToolTip": "D:\\OneDrive\\Desktop\\ASP Project LP-2777\\DemoEcommerce.AuthenticationApiSolution\\AuthenticationApi.Domain\\Entities\\AppUser.cs",
+              "RelativeToolTip": "AuthenticationApi.Domain\\Entities\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T11:40:21.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20260201074340_InitialCreate.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Desktop\\ASP Project LP-2777\\DemoEcommerce.AuthenticationApiSolution\\AuthenticationApi.Infrastructure\\Data\\Migrations\\20260201074340_InitialCreate.cs",
+              "RelativeDocumentMoniker": "AuthenticationApi.Infrastructure\\Data\\Migrations\\20260201074340_InitialCreate.cs",
+              "ToolTip": "D:\\OneDrive\\Desktop\\ASP Project LP-2777\\DemoEcommerce.AuthenticationApiSolution\\AuthenticationApi.Infrastructure\\Data\\Migrations\\20260201074340_InitialCreate.cs",
+              "RelativeToolTip": "AuthenticationApi.Infrastructure\\Data\\Migrations\\20260201074340_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T07:43:40.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Desktop\\ASP Project LP-2777\\DemoEcommerce.AuthenticationApiSolution\\AuthenticationApi.Presentation\\Program.cs",
+              "RelativeDocumentMoniker": "AuthenticationApi.Presentation\\Program.cs",
+              "ToolTip": "D:\\OneDrive\\Desktop\\ASP Project LP-2777\\DemoEcommerce.AuthenticationApiSolution\\AuthenticationApi.Presentation\\Program.cs",
+              "RelativeToolTip": "AuthenticationApi.Presentation\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T17:46:35.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20260201074229_first.cs",
+              "DocumentMoniker": "D:\\Data\\Migrations\\20260201074229_first.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Data\\Migrations\\20260201074229_first.cs",
+              "ToolTip": "D:\\Data\\Migrations\\20260201074229_first.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Data\\Migrations\\20260201074229_first.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T07:42:30.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ServiceContainer.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Desktop\\ASP Project LP-2777\\DemoEcommerce.AuthenticationApiSolution\\AuthenticationApi.Infrastructure\\DependencyInjection\\ServiceContainer.cs",
+              "RelativeDocumentMoniker": "AuthenticationApi.Infrastructure\\DependencyInjection\\ServiceContainer.cs",
+              "ToolTip": "D:\\OneDrive\\Desktop\\ASP Project LP-2777\\DemoEcommerce.AuthenticationApiSolution\\AuthenticationApi.Infrastructure\\DependencyInjection\\ServiceContainer.cs",
+              "RelativeToolTip": "AuthenticationApi.Infrastructure\\DependencyInjection\\ServiceContainer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T17:23:14.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GetUserDTO.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Desktop\\ASP Project LP-2777\\DemoEcommerce.AuthenticationApiSolution\\AuthenticationApi.Application\\DTOs\\GetUserDTO.cs",
+              "RelativeDocumentMoniker": "AuthenticationApi.Application\\DTOs\\GetUserDTO.cs",
+              "ToolTip": "D:\\OneDrive\\Desktop\\ASP Project LP-2777\\DemoEcommerce.AuthenticationApiSolution\\AuthenticationApi.Application\\DTOs\\GetUserDTO.cs",
+              "RelativeToolTip": "AuthenticationApi.Application\\DTOs\\GetUserDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T16:29:51.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AuthenticationDbContext.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Desktop\\ASP Project LP-2777\\DemoEcommerce.AuthenticationApiSolution\\AuthenticationApi.Infrastructure\\Data\\AuthenticationDbContext.cs",
+              "RelativeDocumentMoniker": "AuthenticationApi.Infrastructure\\Data\\AuthenticationDbContext.cs",
+              "ToolTip": "D:\\OneDrive\\Desktop\\ASP Project LP-2777\\DemoEcommerce.AuthenticationApiSolution\\AuthenticationApi.Infrastructure\\Data\\AuthenticationDbContext.cs",
+              "RelativeToolTip": "AuthenticationApi.Infrastructure\\Data\\AuthenticationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T16:07:29.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IUser.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Desktop\\ASP Project LP-2777\\DemoEcommerce.AuthenticationApiSolution\\AuthenticationApi.Application\\Interfaces\\IUser.cs",
+              "RelativeDocumentMoniker": "AuthenticationApi.Application\\Interfaces\\IUser.cs",
+              "ToolTip": "D:\\OneDrive\\Desktop\\ASP Project LP-2777\\DemoEcommerce.AuthenticationApiSolution\\AuthenticationApi.Application\\Interfaces\\IUser.cs",
+              "RelativeToolTip": "AuthenticationApi.Application\\Interfaces\\IUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T12:07:24.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Desktop\\ASP Project LP-2777\\DemoEcommerce.AuthenticationApiSolution\\AuthenticationApi.Application\\DTOs\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "AuthenticationApi.Application\\DTOs\\LoginDTO.cs",
+              "ToolTip": "D:\\OneDrive\\Desktop\\ASP Project LP-2777\\DemoEcommerce.AuthenticationApiSolution\\AuthenticationApi.Application\\DTOs\\LoginDTO.cs",
+              "RelativeToolTip": "AuthenticationApi.Application\\DTOs\\LoginDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T12:05:13.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AppUserDTO.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Desktop\\ASP Project LP-2777\\DemoEcommerce.AuthenticationApiSolution\\AuthenticationApi.Application\\DTOs\\AppUserDTO.cs",
+              "RelativeDocumentMoniker": "AuthenticationApi.Application\\DTOs\\AppUserDTO.cs",
+              "ToolTip": "D:\\OneDrive\\Desktop\\ASP Project LP-2777\\DemoEcommerce.AuthenticationApiSolution\\AuthenticationApi.Application\\DTOs\\AppUserDTO.cs",
+              "RelativeToolTip": "AuthenticationApi.Application\\DTOs\\AppUserDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T12:03:10.494Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 446,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
