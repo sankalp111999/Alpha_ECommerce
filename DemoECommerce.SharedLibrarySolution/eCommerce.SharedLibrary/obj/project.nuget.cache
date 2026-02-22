@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jMNgqNwZf3U=",
+  "dgSpecHash": "76bL5XpI+hY=",
   "success": true,
-  "projectFilePath": "D:\\OneDrive\\Desktop\\ASP Project LP-2777\\DemoECommerce.SharedLibrarySolution\\eCommerce.SharedLibrary\\eCommerce.SharedLibrary.csproj",
+  "projectFilePath": "D:\\OneDrive\\Desktop\\ASP Project LP-2777\\Alpha_Ecommerce\\DemoECommerce.SharedLibrarySolution\\eCommerce.SharedLibrary\\eCommerce.SharedLibrary.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sancalp\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\sancalp\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

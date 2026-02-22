@@ -2885,11 +2885,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\OneDrive\\Desktop\\ASP Project LP-2777\\DemoECommerce.ProductApiSolution\\ProductApi.Infrastructure\\ProductApi.Infrastructure.csproj",
+      "projectUniqueName": "D:\\OneDrive\\Desktop\\ASP Project LP-2777\\Alpha_Ecommerce\\DemoECommerce.ProductApiSolution\\ProductApi.Infrastructure\\ProductApi.Infrastructure.csproj",
       "projectName": "ProductApi.Infrastructure",
-      "projectPath": "D:\\OneDrive\\Desktop\\ASP Project LP-2777\\DemoECommerce.ProductApiSolution\\ProductApi.Infrastructure\\ProductApi.Infrastructure.csproj",
+      "projectPath": "D:\\OneDrive\\Desktop\\ASP Project LP-2777\\Alpha_Ecommerce\\DemoECommerce.ProductApiSolution\\ProductApi.Infrastructure\\ProductApi.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\sancalp\\.nuget\\packages\\",
-      "outputPath": "D:\\OneDrive\\Desktop\\ASP Project LP-2777\\DemoECommerce.ProductApiSolution\\ProductApi.Infrastructure\\obj\\",
+      "outputPath": "D:\\OneDrive\\Desktop\\ASP Project LP-2777\\Alpha_Ecommerce\\DemoECommerce.ProductApiSolution\\ProductApi.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -2911,8 +2911,8 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "D:\\OneDrive\\Desktop\\ASP Project LP-2777\\DemoECommerce.ProductApiSolution\\ProductApi.Application\\ProductApi.Application.csproj": {
-              "projectPath": "D:\\OneDrive\\Desktop\\ASP Project LP-2777\\DemoECommerce.ProductApiSolution\\ProductApi.Application\\ProductApi.Application.csproj"
+            "D:\\OneDrive\\Desktop\\ASP Project LP-2777\\Alpha_Ecommerce\\DemoECommerce.ProductApiSolution\\ProductApi.Application\\ProductApi.Application.csproj": {
+              "projectPath": "D:\\OneDrive\\Desktop\\ASP Project LP-2777\\Alpha_Ecommerce\\DemoECommerce.ProductApiSolution\\ProductApi.Application\\ProductApi.Application.csproj"
             }
           }
         }

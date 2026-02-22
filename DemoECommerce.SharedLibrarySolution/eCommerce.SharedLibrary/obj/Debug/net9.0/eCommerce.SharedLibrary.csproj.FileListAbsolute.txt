@@ -10,3 +10,16 @@ D:\OneDrive\Desktop\ASP Project LP-2777\DemoECommerce.SharedLibrarySolution\eCom
 D:\OneDrive\Desktop\ASP Project LP-2777\DemoECommerce.SharedLibrarySolution\eCommerce.SharedLibrary\obj\Debug\net9.0\refint\eCommerce.SharedLibrary.dll
 D:\OneDrive\Desktop\ASP Project LP-2777\DemoECommerce.SharedLibrarySolution\eCommerce.SharedLibrary\obj\Debug\net9.0\eCommerce.SharedLibrary.pdb
 D:\OneDrive\Desktop\ASP Project LP-2777\DemoECommerce.SharedLibrarySolution\eCommerce.SharedLibrary\obj\Debug\net9.0\ref\eCommerce.SharedLibrary.dll
+D:\OneDrive\Desktop\ASP Project LP-2777\Alpha_Ecommerce\DemoECommerce.SharedLibrarySolution\eCommerce.SharedLibrary\bin\Debug\net9.0\eCommerce.SharedLibrary.deps.json
+D:\OneDrive\Desktop\ASP Project LP-2777\Alpha_Ecommerce\DemoECommerce.SharedLibrarySolution\eCommerce.SharedLibrary\bin\Debug\net9.0\eCommerce.SharedLibrary.dll
+D:\OneDrive\Desktop\ASP Project LP-2777\Alpha_Ecommerce\DemoECommerce.SharedLibrarySolution\eCommerce.SharedLibrary\bin\Debug\net9.0\eCommerce.SharedLibrary.pdb
+D:\OneDrive\Desktop\ASP Project LP-2777\Alpha_Ecommerce\DemoECommerce.SharedLibrarySolution\eCommerce.SharedLibrary\obj\Debug\net9.0\eCommerce.SharedLibrary.csproj.AssemblyReference.cache
+D:\OneDrive\Desktop\ASP Project LP-2777\Alpha_Ecommerce\DemoECommerce.SharedLibrarySolution\eCommerce.SharedLibrary\obj\Debug\net9.0\eCommerce.SharedLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Desktop\ASP Project LP-2777\Alpha_Ecommerce\DemoECommerce.SharedLibrarySolution\eCommerce.SharedLibrary\obj\Debug\net9.0\eCommerce.SharedLibrary.AssemblyInfoInputs.cache
+D:\OneDrive\Desktop\ASP Project LP-2777\Alpha_Ecommerce\DemoECommerce.SharedLibrarySolution\eCommerce.SharedLibrary\obj\Debug\net9.0\eCommerce.SharedLibrary.AssemblyInfo.cs
+D:\OneDrive\Desktop\ASP Project LP-2777\Alpha_Ecommerce\DemoECommerce.SharedLibrarySolution\eCommerce.SharedLibrary\obj\Debug\net9.0\eCommerce.SharedLibrary.csproj.CoreCompileInputs.cache
+D:\OneDrive\Desktop\ASP Project LP-2777\Alpha_Ecommerce\DemoECommerce.SharedLibrarySolution\eCommerce.SharedLibrary\obj\Debug\net9.0\eCommerce.SharedLibrary.sourcelink.json
+D:\OneDrive\Desktop\ASP Project LP-2777\Alpha_Ecommerce\DemoECommerce.SharedLibrarySolution\eCommerce.SharedLibrary\obj\Debug\net9.0\eCommerce.SharedLibrary.dll
+D:\OneDrive\Desktop\ASP Project LP-2777\Alpha_Ecommerce\DemoECommerce.SharedLibrarySolution\eCommerce.SharedLibrary\obj\Debug\net9.0\refint\eCommerce.SharedLibrary.dll
+D:\OneDrive\Desktop\ASP Project LP-2777\Alpha_Ecommerce\DemoECommerce.SharedLibrarySolution\eCommerce.SharedLibrary\obj\Debug\net9.0\eCommerce.SharedLibrary.pdb
+D:\OneDrive\Desktop\ASP Project LP-2777\Alpha_Ecommerce\DemoECommerce.SharedLibrarySolution\eCommerce.SharedLibrary\obj\Debug\net9.0\ref\eCommerce.SharedLibrary.dll

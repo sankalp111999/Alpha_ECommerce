@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\OneDrive\\Desktop\\ASP Project LP-2777\\DemoECommerce.ProductApiSolution\\ProductApi.Domain\\ProductApi.Domain.csproj": {}
+    "D:\\OneDrive\\Desktop\\ASP Project LP-2777\\Alpha_Ecommerce\\DemoECommerce.ProductApiSolution\\ProductApi.Domain\\ProductApi.Domain.csproj": {}
   },
   "projects": {
-    "D:\\OneDrive\\Desktop\\ASP Project LP-2777\\DemoECommerce.ProductApiSolution\\ProductApi.Domain\\ProductApi.Domain.csproj": {
+    "D:\\OneDrive\\Desktop\\ASP Project LP-2777\\Alpha_Ecommerce\\DemoECommerce.ProductApiSolution\\ProductApi.Domain\\ProductApi.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\OneDrive\\Desktop\\ASP Project LP-2777\\DemoECommerce.ProductApiSolution\\ProductApi.Domain\\ProductApi.Domain.csproj",
+        "projectUniqueName": "D:\\OneDrive\\Desktop\\ASP Project LP-2777\\Alpha_Ecommerce\\DemoECommerce.ProductApiSolution\\ProductApi.Domain\\ProductApi.Domain.csproj",
         "projectName": "ProductApi.Domain",
-        "projectPath": "D:\\OneDrive\\Desktop\\ASP Project LP-2777\\DemoECommerce.ProductApiSolution\\ProductApi.Domain\\ProductApi.Domain.csproj",
+        "projectPath": "D:\\OneDrive\\Desktop\\ASP Project LP-2777\\Alpha_Ecommerce\\DemoECommerce.ProductApiSolution\\ProductApi.Domain\\ProductApi.Domain.csproj",
         "packagesPath": "C:\\Users\\sancalp\\.nuget\\packages\\",
-        "outputPath": "D:\\OneDrive\\Desktop\\ASP Project LP-2777\\DemoECommerce.ProductApiSolution\\ProductApi.Domain\\obj\\",
+        "outputPath": "D:\\OneDrive\\Desktop\\ASP Project LP-2777\\Alpha_Ecommerce\\DemoECommerce.ProductApiSolution\\ProductApi.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,8 +33,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "D:\\OneDrive\\Desktop\\ASP Project LP-2777\\DemoECommerce.SharedLibrarySolution\\eCommerce.SharedLibrary\\eCommerce.SharedLibrary.csproj": {
-                "projectPath": "D:\\OneDrive\\Desktop\\ASP Project LP-2777\\DemoECommerce.SharedLibrarySolution\\eCommerce.SharedLibrary\\eCommerce.SharedLibrary.csproj"
+              "D:\\OneDrive\\Desktop\\ASP Project LP-2777\\Alpha_Ecommerce\\DemoECommerce.SharedLibrarySolution\\eCommerce.SharedLibrary\\eCommerce.SharedLibrary.csproj": {
+                "projectPath": "D:\\OneDrive\\Desktop\\ASP Project LP-2777\\Alpha_Ecommerce\\DemoECommerce.SharedLibrarySolution\\eCommerce.SharedLibrary\\eCommerce.SharedLibrary.csproj"
               }
             }
           }
@@ -372,14 +372,14 @@
         }
       }
     },
-    "D:\\OneDrive\\Desktop\\ASP Project LP-2777\\DemoECommerce.SharedLibrarySolution\\eCommerce.SharedLibrary\\eCommerce.SharedLibrary.csproj": {
+    "D:\\OneDrive\\Desktop\\ASP Project LP-2777\\Alpha_Ecommerce\\DemoECommerce.SharedLibrarySolution\\eCommerce.SharedLibrary\\eCommerce.SharedLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\OneDrive\\Desktop\\ASP Project LP-2777\\DemoECommerce.SharedLibrarySolution\\eCommerce.SharedLibrary\\eCommerce.SharedLibrary.csproj",
+        "projectUniqueName": "D:\\OneDrive\\Desktop\\ASP Project LP-2777\\Alpha_Ecommerce\\DemoECommerce.SharedLibrarySolution\\eCommerce.SharedLibrary\\eCommerce.SharedLibrary.csproj",
         "projectName": "eCommerce.SharedLibrary",
-        "projectPath": "D:\\OneDrive\\Desktop\\ASP Project LP-2777\\DemoECommerce.SharedLibrarySolution\\eCommerce.SharedLibrary\\eCommerce.SharedLibrary.csproj",
+        "projectPath": "D:\\OneDrive\\Desktop\\ASP Project LP-2777\\Alpha_Ecommerce\\DemoECommerce.SharedLibrarySolution\\eCommerce.SharedLibrary\\eCommerce.SharedLibrary.csproj",
         "packagesPath": "C:\\Users\\sancalp\\.nuget\\packages\\",
-        "outputPath": "D:\\OneDrive\\Desktop\\ASP Project LP-2777\\DemoECommerce.SharedLibrarySolution\\eCommerce.SharedLibrary\\obj\\",
+        "outputPath": "D:\\OneDrive\\Desktop\\ASP Project LP-2777\\Alpha_Ecommerce\\DemoECommerce.SharedLibrarySolution\\eCommerce.SharedLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

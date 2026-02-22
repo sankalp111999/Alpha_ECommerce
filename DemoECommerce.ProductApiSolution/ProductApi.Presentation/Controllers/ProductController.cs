@@ -15,11 +15,13 @@ namespace ProductApi.Presentation.Controllers
         [AllowAnonymous]       //open to general public, no authentication required
         public async Task<ActionResult<IEnumerable<ProductDTO>>> GetProduct()
         {
+            //get all products from repository
             var products = await productInterface.GetAllAsync();
             if(!products.Any())
             {
                 return NotFound("No products detected in the database");
             }
+            //Convert from entity to DTOs
             var (_, list) = ProductConversion.FromEntity(null!, products);        //Result: sirf list variable mein store hoga, pehla value garbage!
             return list!.Any() ? Ok(list) : NotFound("No products detected in the database");
         }
